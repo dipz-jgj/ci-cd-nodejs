@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/2pai/github-actions-ci-cd-nodejs.git"
+    "url": "git+https://github.com/dipz-jgj/ci-cd-nodejs.git"
   },
   "author": "2pai",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/2pai/github-actions-ci-cd-nodejs/issues"
+    "url": "https://github.com/dipz-jgj/ci-cd-nodejs/issues"
   },
-  "homepage": "https://github.com/2pai/github-actions-ci-cd-nodejs#readme",
+  "homepage": "https://github.com/dipz-jgj/ci-cd-nodejs#readme",
   "dependencies": {
     "express": "^4.17.1",
     "http": "0.0.1-security"
